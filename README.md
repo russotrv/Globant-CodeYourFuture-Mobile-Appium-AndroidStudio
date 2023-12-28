@@ -1,1 +1,1 @@
-Automatizaciones con Appium y Android Studio
+Automatización mobile con Appium, Appium Inspector y Android Studio 
